@@ -1,2 +1,0 @@
-# ABSA
-a ABSA case
